@@ -17,6 +17,8 @@ suggestion stands: sanity-check one URL in a browser before publishing.
 
 # SEC EDGAR JSON API — a cheatsheet
 
+![SEC Filings Have a Free JSON API](assets/banner-1.png)
+
 The SEC publishes every filing — 10-Ks, 8-Ks, insider trades (Form 4), 13F holdings,
 S-1s — through a free, keyless JSON API. No sign-up, no API key, no paid tier. The only
 requirement is a descriptive `User-Agent` header; the only limit is a flat rate cap.
